@@ -1,0 +1,514 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "vel8_utaVeK1q9a5luzkkStcruw",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "CknV01_uKwAGY1_dMP7KvUN4i04",
+      "id": "Ne66uB4fyXg",
+      "snippet": {
+        "publishedAt": "2024-11-16T00:00:07Z",
+        "channelId": "UCDNvRZRgvkBTUkQzFoT_8rA",
+        "title": "[EN] 사전모임은 핑계고 ㅣ EP.62",
+        "description": "정민이 형 입에서 시작된 풍향고 여행을 곧 앞두고 있는데요. 일단 어플 없이 가기로 했잖아용? 우리끼리 진짜 갈 수 있나 없나 얘기 좀 해보려고 석삼이형, 정민이 형, 쌥쌥이랑 미리 모였습니다.\n\n사실 다~~ 핑계고🐓\n여행 가기 전에 넷이 같이 밥 한 끼 하면서 중구난방 떠들어제꼈습니다.\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\nㅡㅡㅡ\n[채널 '뜬뜬' of 안테나플러스]\n연출 | 조은진 조수빈 김다윤 이은솔 추형록 오민주 서윤지\n작가 | 김송화 최수정 김이진 정채휴 전우성\n\nㅡㅡㅡ\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #지석진 #황정민 #양세찬 #풍향고 #사전모임\n\n- 본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ne66uB4fyXg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ne66uB4fyXg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ne66uB4fyXg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ne66uB4fyXg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ne66uB4fyXg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뜬뜬 DdeunDdeun",
+        "tags": [
+          "뜬뜬",
+          "핑계고",
+          "유재석",
+          "황정민",
+          "양세찬",
+          "지석진",
+          "사전모임",
+          "풍향고",
+          "풍향고사전모임",
+          "핑계고시상식",
+          "핑계고 시상식 대상",
+          "이욱동",
+          "이동욱",
+          "이동휘",
+          "핑계고 권진아",
+          "나는운이좋았지",
+          "장마철은핑계고",
+          "핑계고 황정민",
+          "베트남 여행",
+          "사파 여행",
+          "여행지 추천",
+          "4시간 미만"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[EN] 사전모임은 핑계고 ㅣ EP.62",
+          "description": "정민이 형 입에서 시작된 풍향고 여행을 곧 앞두고 있는데요. 일단 어플 없이 가기로 했잖아용? 우리끼리 진짜 갈 수 있나 없나 얘기 좀 해보려고 석삼이형, 정민이 형, 쌥쌥이랑 미리 모였습니다.\n\n사실 다~~ 핑계고🐓\n여행 가기 전에 넷이 같이 밥 한 끼 하면서 중구난방 떠들어제꼈습니다.\n\nㅡㅡㅡ\n유선배 복지 콘텐츠 🐓핑계고🐓\n우리도 언제 올릴지 몰라요 ⚠불시 업로드⚠\n☁구독 & 좋아요 & 알림설정 필수☁\n\nㅡㅡㅡ\n[채널 '뜬뜬' of 안테나플러스]\n연출 | 조은진 조수빈 김다윤 이은솔 추형록 오민주 서윤지\n작가 | 김송화 최수정 김이진 정채휴 전우성\n\nㅡㅡㅡ\n👇’뜬뜬’ 소식 보러가기\n[https://instagram.com/ddeun._.ddeun]\n#뜬뜬 #핑계고 #유재석 #지석진 #황정민 #양세찬 #풍향고 #사전모임\n\n- 본 콘텐츠와 무관한 내용의 댓글과 출연자에 대한 무분별한 욕설, 비난 및 조롱 등 악의적인 댓글은 무통보 삭제될 수 있습니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT50M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2478296",
+        "likeCount": "38621",
+        "favoriteCount": "0",
+        "commentCount": "1936"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-W6fY1vzNvid6v5Pdfe_mnxpvVU",
+      "id": "rJNA7ZCk9GI",
+      "snippet": {
+        "publishedAt": "2024-11-17T08:33:01Z",
+        "channelId": "UCtybqqaTj6Nx74Azdz1KrsA",
+        "title": "[UFC] 존 존스 vs 스티페 미오치치",
+        "description": "[UFC] 존 존스(Jon Jones) vs 스티페 미오치치(Stipe Miocic) - 헤비급 타이틀전",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rJNA7ZCk9GI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rJNA7ZCk9GI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rJNA7ZCk9GI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rJNA7ZCk9GI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rJNA7ZCk9GI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tvN SPORTS",
+        "tags": [
+          "KO",
+          "UFC NO",
+          "UFC UK",
+          "UFC fight pass",
+          "Ufc309",
+          "Ultimate fighting championship",
+          "ufc",
+          "데이먼 잭슨",
+          "데이비드 오나마",
+          "로베르토 로메로",
+          "마르친 티부라",
+          "마우리시우 루피",
+          "마이클 챈들러",
+          "마커스 맥기",
+          "보 니컬",
+          "비비아니 아라우조",
+          "슈퍼보이",
+          "스티페 미오치치",
+          "정찬성",
+          "조나단 마르티네스",
+          "조나타 지니스",
+          "존 존스",
+          "짐 밀러",
+          "찰스 올리베이라",
+          "최두호",
+          "카리니 실바",
+          "코리안좀비",
+          "폴 크레이그",
+          "하메스 욘톱"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[UFC] 존 존스 vs 스티페 미오치치",
+          "description": "[UFC] 존 존스(Jon Jones) vs 스티페 미오치치(Stipe Miocic) - 헤비급 타이틀전"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT23M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": ["KR"]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1016246",
+        "likeCount": "11018",
+        "favoriteCount": "0",
+        "commentCount": "5579"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "614A50JKtESg-Q2XAHXc687jBQw",
+      "id": "V1l1MMVmrjM",
+      "snippet": {
+        "publishedAt": "2024-11-16T05:01:00Z",
+        "channelId": "UCviI9lzTe2pkxJ9M2ArA7WQ",
+        "title": "[EN/JPN] 제 1회 지코 주주총회 | 이용진, 선미, 도경수, 전소연, 우태운, 블락비(재효, 유권, 피오), 보이넥스트도어(명재현, 태산, 운학)",
+        "description": "제 1회 지코 주주총회\n\n지코의 솔로 데뷔 10주년을 맞아 자리를 함께해주신 이용진 님, 선미 님, 도경수 님, 전소연 님, 우태운 님, 블락비(재효, 유권, 피오) 님, 보이넥스트도어(명재현, 태산, 운학) 님 감사드립니다.✨✨\n\n#ZICO #지코 #이용진 #선미 #도경수 #전소연 #우태운 \n#블락비 #BlockB #재효 #유권 #피오 #보이넥스트도어 #boynextdoor #명재현 #태산 #운학 \n#딩고 #dingo #df #디에프 \n\nMore df...\nYoutube: https://www.youtube.com/@df_dingo \nInstagram: https://www.instagram.com/df.dingo\nFacebook: https://www.facebook.com/df.dingo\nTikTok: https://www.tiktok.com/@df_dingo\n\nContact: \ndf@makeus.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V1l1MMVmrjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V1l1MMVmrjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V1l1MMVmrjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V1l1MMVmrjM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V1l1MMVmrjM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "df 디에프",
+        "tags": [
+          "dingofreestyle",
+          "dingo",
+          "딩고",
+          "딩고프리스타일",
+          "딩프",
+          "DF",
+          "킬링벌스",
+          "지코",
+          "DO",
+          "SUNMI",
+          "IDLE",
+          "SOYEON",
+          "여자아이들",
+          "아이들",
+          "주주총회",
+          "보넥도",
+          "엑소",
+          "blockb",
+          "도경수",
+          "전소연",
+          "선미",
+          "재현",
+          "운학",
+          "태산",
+          "유권",
+          "재효",
+          "피오",
+          "표지훈",
+          "bbc"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[EN/JPN] 제 1회 지코 주주총회 | 이용진, 선미, 도경수, 전소연, 우태운, 블락비(재효, 유권, 피오), 보이넥스트도어(명재현, 태산, 운학)",
+          "description": "제 1회 지코 주주총회\n\n지코의 솔로 데뷔 10주년을 맞아 자리를 함께해주신 이용진 님, 선미 님, 도경수 님, 전소연 님, 우태운 님, 블락비(재효, 유권, 피오) 님, 보이넥스트도어(명재현, 태산, 운학) 님 감사드립니다.✨✨\n\n#ZICO #지코 #이용진 #선미 #도경수 #전소연 #우태운 \n#블락비 #BlockB #재효 #유권 #피오 #보이넥스트도어 #boynextdoor #명재현 #태산 #운학 \n#딩고 #dingo #df #디에프 \n\nMore df...\nYoutube: https://www.youtube.com/@df_dingo \nInstagram: https://www.instagram.com/df.dingo\nFacebook: https://www.facebook.com/df.dingo\nTikTok: https://www.tiktok.com/@df_dingo\n\nContact: \ndf@makeus.com"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT35M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1265451",
+        "likeCount": "48896",
+        "favoriteCount": "0",
+        "commentCount": "2866"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mqKU2Yo2lBS570yS1b3PxhNox4E",
+      "id": "8F61FXiYpP0",
+      "snippet": {
+        "publishedAt": "2024-11-18T09:00:06Z",
+        "channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
+        "title": "MEOVV - ‘TOXIC’ M/V",
+        "description": "🔗 https://meovv.lnk.to/TOXIC\n\nMEOVV - ‘TOXIC’ M/V \n\nThey will never know the way I feel, won’t give up\nBut I told you what I need\nGet yourself together, please\nGot a taste so bitter, come back talking sweet, reconsider\nThey call me naive, but I’ll find you when you leave\n\nI never read the signs, driving with no lights\nBaby, I’ve been blind over you\nGuess we’ll never know when it’s time to go\nHell is not the same without you\n\nTogether, we’re so toxic\nBut your love is something I can’t lose\nThey don’t know you like I do\nTogether, we’re so toxic\nBut my life is nothing without you\nYeah, I know you feel it too\n\nThe way you got me wrapped around your finger\nI just wanna make the story stop\nThen again, when you hold me\nI know that you’re everything I want, so\nTold ya I don’t like it how we pick fights, baby\nKnow I should leave you, but I’m a ride or die, baby \nLocked in it, all in it, I should’ve known but\n\nI never read the signs, driving with no lights\nBaby, I’ve been blind over you\nGuess we’ll never know when it’s time to go\nHeaven’s not the same without you\n\nTogether, we’re so toxic\nBut your love is something I can’t lose\nThey don’t know you like I do\nTogether, we’re so toxic\nBut my life is nothing without you\nYeah, I know you feel it too\n\nYeah, I know you know you ain’t been no angel (yeah)\nAll the times you got my heart into danger (yeah)\nBut I’m doin’ it too, I’m just like you\nWe go up and down on this roller coaster\nPush away when we getting closer\nWe say it’s over, but it’s\n\nYeah, I know you know you ain’t been no angel (yeah)\nAll the times you got my heart into danger (yeah)\nBut I’m doin’ it too, I’m just like you\nWe go up and down on this roller coaster\nPush away when we getting closer\nWe say it’s over, but it’s never\n\nThe 2nd Single [TOXIC]\n2024.11.18 6PM (KST)\n\nMore about MEOVV @\nhttps://www.youtube.com/@MEOVV_OFFICIAL\nhttps://www.instagram.com/meovv\nhttps://www.facebook.com/MEOVV.OFFICIAL/\nhttps://www.tiktok.com/@meovv_official\nhttps://x.com/OFFICIAL_MEOVV\nhttps://weibo.com/u/7941496139\n\n#MEOVV #미야오 #TOXIC #BODY\n#THEBLACKLABEL #더블랙레이블",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8F61FXiYpP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8F61FXiYpP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8F61FXiYpP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8F61FXiYpP0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8F61FXiYpP0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBLACKLABEL",
+        "tags": [
+          "KPOP",
+          "K-POP",
+          "SOMI",
+          "Jeon Somi",
+          "전소미",
+          "blackpink",
+          "yg entertainment",
+          "music video",
+          "YG",
+          "pop",
+          "r&b",
+          "music",
+          "single",
+          "theblacklabel",
+          "sm entertainment",
+          "jyp entertainment",
+          "bts",
+          "big hit entertainment",
+          "dance",
+          "hip hop",
+          "THEBLACKLABEL",
+          "MEOW",
+          "CAT",
+          "cat",
+          "meow",
+          "테디걸그룹",
+          "걸그룹",
+          "테디",
+          "teddygirlgroup",
+          "yggirlgroup",
+          "미야오",
+          "MEOVV",
+          "hiphop",
+          "BLACKPINK",
+          "블랙핑크",
+          "4세대 아이돌",
+          "5세대 아이돌",
+          "뉴진스",
+          "newjeans",
+          "IVE",
+          "아이브",
+          "르세라핌",
+          "LE SSERAFIM",
+          "에스파",
+          "aespa",
+          "TEASER",
+          "TEASING",
+          "티징",
+          "ELLA",
+          "엘라",
+          "엘라그로스",
+          "엘라 그로스",
+          "가원",
+          "GAWON",
+          "클로이",
+          "Chloe",
+          "수인",
+          "SOOIN",
+          "나린",
+          "NARIN",
+          "데뷔",
+          "M/V",
+          "MUSIC VIDEO",
+          "뮤비",
+          "MV",
+          "TOXIC",
+          "toxic",
+          "BODY",
+          "바디"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "MEOVV - ‘TOXIC’ M/V",
+          "description": "🔗 https://meovv.lnk.to/TOXIC\n\nMEOVV - ‘TOXIC’ M/V \n\nThey will never know the way I feel, won’t give up\nBut I told you what I need\nGet yourself together, please\nGot a taste so bitter, come back talking sweet, reconsider\nThey call me naive, but I’ll find you when you leave\n\nI never read the signs, driving with no lights\nBaby, I’ve been blind over you\nGuess we’ll never know when it’s time to go\nHell is not the same without you\n\nTogether, we’re so toxic\nBut your love is something I can’t lose\nThey don’t know you like I do\nTogether, we’re so toxic\nBut my life is nothing without you\nYeah, I know you feel it too\n\nThe way you got me wrapped around your finger\nI just wanna make the story stop\nThen again, when you hold me\nI know that you’re everything I want, so\nTold ya I don’t like it how we pick fights, baby\nKnow I should leave you, but I’m a ride or die, baby \nLocked in it, all in it, I should’ve known but\n\nI never read the signs, driving with no lights\nBaby, I’ve been blind over you\nGuess we’ll never know when it’s time to go\nHeaven’s not the same without you\n\nTogether, we’re so toxic\nBut your love is something I can’t lose\nThey don’t know you like I do\nTogether, we’re so toxic\nBut my life is nothing without you\nYeah, I know you feel it too\n\nYeah, I know you know you ain’t been no angel (yeah)\nAll the times you got my heart into danger (yeah)\nBut I’m doin’ it too, I’m just like you\nWe go up and down on this roller coaster\nPush away when we getting closer\nWe say it’s over, but it’s\n\nYeah, I know you know you ain’t been no angel (yeah)\nAll the times you got my heart into danger (yeah)\nBut I’m doin’ it too, I’m just like you\nWe go up and down on this roller coaster\nPush away when we getting closer\nWe say it’s over, but it’s never\n\nThe 2nd Single [TOXIC]\n2024.11.18 6PM (KST)\n\nMore about MEOVV @\nhttps://www.youtube.com/@MEOVV_OFFICIAL\nhttps://www.instagram.com/meovv\nhttps://www.facebook.com/MEOVV.OFFICIAL/\nhttps://www.tiktok.com/@meovv_official\nhttps://x.com/OFFICIAL_MEOVV\nhttps://weibo.com/u/7941496139\n\n#MEOVV #미야오 #TOXIC #BODY\n#THEBLACKLABEL #더블랙레이블"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2576877",
+        "favoriteCount": "0",
+        "commentCount": "8964"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dyjxSaWIOXAmuZpV2DHzrdx2_JE",
+      "id": "9GI84QVnnjk",
+      "snippet": {
+        "publishedAt": "2024-11-16T13:35:43Z",
+        "channelId": "UCOHM2N1YQdb-cHWxJxwBMLQ",
+        "title": "[아형✪하이라이트] 서울대 미만은 다..?! 연고 VS 고연 논쟁하는 미미미누-서장훈 향한 이대 나온 트리플에스 김유연의 한방💥 | 아는 형님 | JTBC 241116 방송",
+        "description": "[아형✪하이라이트] 서울대 미만은 다...? 연고 VS 고연 논쟁하는 미미미누-서장훈 향한 이대 나온 트리플에스 김유연의 한방💥\n#아는형님 #토크하이라이트 #트리플에스 #김유연\n\n00:00 인트로\n00:24 공부 좀 하는 전학생들 등장📖\n08:20 전학 신청서 심사\n11:07 카이스트생의 충격 발언\n15:08 연고 VS 고연? 한방에 정리\n18:50 엘리트들의 장래희망★\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/jtbcbros\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r\n\n〈아는 형님〉은 매주 토요일 저녁  8시 50분 본.방.사.수!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9GI84QVnnjk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9GI84QVnnjk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9GI84QVnnjk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9GI84QVnnjk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9GI84QVnnjk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아는형님 Knowingbros",
+        "tags": [
+          "아는 형님",
+          "이장원",
+          "미미미누",
+          "허성범",
+          "김유연",
+          "강호동",
+          "이수근",
+          "서장훈",
+          "김영철",
+          "김희철",
+          "이상민",
+          "민경훈",
+          "신동",
+          "이장원아는형님",
+          "미미미누아는형님",
+          "허성범아는형님",
+          "김유연아는형님",
+          "트리플에스",
+          "김유연이대",
+          "김유연학력",
+          "김유연학교",
+          "김유연예능",
+          "트리플에스예능",
+          "연고전",
+          "고연전",
+          "서장훈연세대",
+          "미미미누고려대",
+          "서장훈학교",
+          "미미미누학교",
+          "서울대",
+          "학력",
+          "논쟁Edward J. Lee",
+          "MMMN",
+          "HEO SEONGBEOM"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[아형✪하이라이트] 서울대 미만은 다..?! 연고 VS 고연 논쟁하는 미미미누-서장훈 향한 이대 나온 트리플에스 김유연의 한방💥 | 아는 형님 | JTBC 241116 방송",
+          "description": "[아형✪하이라이트] 서울대 미만은 다...? 연고 VS 고연 논쟁하는 미미미누-서장훈 향한 이대 나온 트리플에스 김유연의 한방💥\n#아는형님 #토크하이라이트 #트리플에스 #김유연\n\n00:00 인트로\n00:24 공부 좀 하는 전학생들 등장📖\n08:20 전학 신청서 심사\n11:07 카이스트생의 충격 발언\n15:08 연고 VS 고연? 한방에 정리\n18:50 엘리트들의 장래희망★\n\n📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/jtbcbros\n📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r\n\n〈아는 형님〉은 매주 토요일 저녁  8시 50분 본.방.사.수!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT28M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1432504",
+        "likeCount": "11395",
+        "favoriteCount": "0",
+        "commentCount": "4416"
+      }
+    }
+  ],
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 5
+  }
+}
