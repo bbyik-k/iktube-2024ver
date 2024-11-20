@@ -6,3 +6,5 @@ youtube platform
 - React-router-dom
 - tailwind css
 - postman
+- Tanstack query
+- axios
