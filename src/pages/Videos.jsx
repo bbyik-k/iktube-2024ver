@@ -2,7 +2,8 @@ import { useQuery } from '@tanstack/react-query';
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import VideoCard from '../components/VideoCard';
-import axios from 'axios';
+import { search } from '../api/youtube';
+import FakeIktube from '../api/fakeIktube';
 
 export default function Videos() {
   const { keyword } = useParams();
@@ -13,18 +14,12 @@ export default function Videos() {
     data: videos,
   } = useQuery({
     queryKey: ['videos', keyword],
-    queryFn: async () => {
-      try {
-        const res = await axios.get(`/videos/${keyword ? 'search' : 'popular'}.json`);
-        return res.data.items;
-      } catch (error) {
-        console.error(`Error fetching data: ${error}`);
-        return [];
-      }
+    queryFn: () => {
+      const youtube = new FakeIktube();
+      return youtube.search(keyword);
     },
     staleTime: 1000 * 60 * 5,
   });
-  console.log(videos);
   return (
     <>
       <div>Videos {keyword ? `: 🔎${keyword}` : '🔥'}</div>
@@ -33,7 +28,7 @@ export default function Videos() {
       {videos && (
         <ul>
           {videos.map((video, idx) => (
-            <VideoCard key={idx} video={video} />
+            <VideoCard key={video.id} video={video} />
           ))}
         </ul>
       )}
