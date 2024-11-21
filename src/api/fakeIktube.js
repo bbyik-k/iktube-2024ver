@@ -12,7 +12,6 @@ export default class FakeIktube {
     try {
       const res = await axios.get(`/videos/search.json`);
       const items = await res.data.items.map((item) => ({ ...item, id: item.id.videoId }));
-      console.log(items);
       return items;
     } catch (error) {
       console.error(`Error fetching data: ${error}`);
@@ -23,7 +22,6 @@ export default class FakeIktube {
   async #mostPopular() {
     try {
       const res = await axios.get(`/videos/popular.json`);
-      console.log(res.data.items);
       return res.data.items;
     } catch (error) {
       console.error(`Error fetching data: ${error}`);

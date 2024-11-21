@@ -2,11 +2,11 @@ import { useQuery } from '@tanstack/react-query';
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import VideoCard from '../components/VideoCard';
-import Iktube, { search } from '../api/youtube';
-import FakeIktube from '../api/fakeIktube';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export default function Videos() {
   const { keyword } = useParams();
+  const { youtube } = useYoutubeApi();
 
   const {
     isLoading,
@@ -14,11 +14,7 @@ export default function Videos() {
     data: videos,
   } = useQuery({
     queryKey: ['videos', keyword],
-    queryFn: () => {
-      // const youtube = new FakeIktube();
-      const youtube = new Iktube();
-      return youtube.search(keyword);
-    },
+    queryFn: () => youtube.search(keyword),
     staleTime: 1000 * 60 * 5,
   });
   return (

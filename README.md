@@ -8,3 +8,14 @@ youtube platform
 - postman
 - Tanstack query
 - axios
+- Dependency Injection (DI)
+- Context API
+- Custom Hooks
+
+---
+
+- React hooks
+  - closure
+  - usecallback
+    - Memoization
+- Lazy Initialization

@@ -25,7 +25,7 @@ export default class Iktube {
           q: keyword,
         },
       });
-      const items = await res.data.items.map((item) => ({ ...item, id: item.id.videoId }));
+      const items = await res.data.items.map((item, idx) => ({ ...item, id: item.id?.videoId || `fallback-${idx}` }));
       console.log(items);
       return items;
     } catch (error) {
