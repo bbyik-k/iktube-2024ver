@@ -2,7 +2,7 @@ import { useQuery } from '@tanstack/react-query';
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import VideoCard from '../components/VideoCard';
-import { search } from '../api/youtube';
+import Iktube, { search } from '../api/youtube';
 import FakeIktube from '../api/fakeIktube';
 
 export default function Videos() {
@@ -15,7 +15,8 @@ export default function Videos() {
   } = useQuery({
     queryKey: ['videos', keyword],
     queryFn: () => {
-      const youtube = new FakeIktube();
+      // const youtube = new FakeIktube();
+      const youtube = new Iktube();
       return youtube.search(keyword);
     },
     staleTime: 1000 * 60 * 5,
