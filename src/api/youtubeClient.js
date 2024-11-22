@@ -22,6 +22,18 @@ export default class IktubeClient {
     });
   }
 
+  async searchLatest({ channelId = 'UC_x5XG1OV2P6uZZ5FSM9Ttw', maxResults = 25 }) {
+    return this.httpClient.get('search', {
+      params: {
+        part: 'snippet',
+        channelId,
+        maxResults,
+        type: 'video',
+        order: 'date',
+      },
+    });
+  }
+
   async videos({ maxResults = 25, regionCode = 'KR' }) {
     return this.httpClient.get('videos', {
       params: {
@@ -29,6 +41,15 @@ export default class IktubeClient {
         chart: 'mostPopular',
         regionCode,
         maxResults,
+      },
+    });
+  }
+
+  async channel({ id = 'UC_x5XG1OV2P6uZZ5FSM9Ttw' }) {
+    return this.httpClient.get('channels', {
+      params: {
+        part: 'snippet,contentDetails,statistics',
+        id,
       },
     });
   }
