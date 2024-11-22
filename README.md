@@ -11,6 +11,7 @@ youtube platform
 - Dependency Injection (DI)
 - Context API
 - Custom Hooks
+- timeago
 
 ---
 

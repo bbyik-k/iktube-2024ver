@@ -12,7 +12,6 @@ export default class Iktube {
     try {
       const res = await this.apiClient.search({ keyword });
       const items = await res.data.items.map((item, idx) => ({ ...item, id: item.id?.videoId || `fallback-${idx}` }));
-      console.log(items);
       return items;
     } catch (error) {
       console.error(`Error fetching data: ${error}`);
@@ -22,7 +21,7 @@ export default class Iktube {
 
   async #mostPopular() {
     try {
-      const res = await this.apiClient.videos();
+      const res = await this.apiClient.videos({});
       return res.data.items;
     } catch (error) {
       console.error(`Error fetching data: ${error}`);
