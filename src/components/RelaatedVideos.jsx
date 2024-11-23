@@ -17,13 +17,12 @@ export default function RelaatedVideos({ id, channelId }) {
 
   return (
     <>
-      <h1>channelId: {channelId}</h1>
       {isLoading && <p>Loading...</p>}
       {error && <p>Something is wrong 🤨</p>}
       {videos && (
         <ul>
           {videos.map((video, idx) => (
-            <VideoCard key={video.id} video={video} />
+            <VideoCard key={video.id} video={video} type='list' />
           ))}
         </ul>
       )}

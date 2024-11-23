@@ -15,7 +15,7 @@ export default function Videos() {
   } = useQuery({
     queryKey: ['videos', keyword],
     queryFn: () => youtube.search(keyword),
-    staleTime: 1000 * 60 * 5,
+    staleTime: 1000 * 60 * 1,
   });
   return (
     <>

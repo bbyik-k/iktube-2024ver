@@ -14,16 +14,16 @@ export default function VideoDetail() {
   console.log(video);
   // console.log(channelId);
   return (
-    <section>
-      <article>
-        <iframe id='player' type='text/html' width='60%' height='400' src={`http://www.youtube.com/embed/${id}`} style={{ border: 'none' }} title={title} />
-        <div>
-          <h2>{title}</h2>
+    <section className='flex flex-col lg:flex-row'>
+      <article className='basis-2/3'>
+        <iframe id='player' type='text/html' width='100%' height='600' src={`http://www.youtube.com/embed/${id}`} style={{ border: 'none' }} title={title} />
+        <div className='p-8'>
+          <h2 className='text-xl font-bold'>{title}</h2>
           <ChannelInfo id={channelId} name={channelTitle} />
-          <pre>{description}</pre>
+          <pre className='whitespace-pre-wrap'>{description}</pre>
         </div>
       </article>
-      <section>
+      <section className='basis-1/3'>
         <RelaatedVideos id={id} channelId={channelId} />
       </section>
     </section>
